@@ -1,1 +1,4 @@
 # phpclass
+SecretId：4cd258f97ad0b04546e0e869176f90e2
+SecretKey：9adfaf3ac74ea669c16c226a29b47105
+captchId:df872ab485ca4aa99e545d85d7ec593
